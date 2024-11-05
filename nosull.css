@@ -1,0 +1,5 @@
+.element {
+  /* Transition the opacity property over 0.3s */
+  transition: opacity 0.3s ease-in-out;
+  opacity: 1; /* Initial opacity value */
+}
